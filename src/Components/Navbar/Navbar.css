@@ -10,8 +10,8 @@
     align-items: center;
     gap:3px ;
     cursor: pointer;
-    height: 160px;
-    width: 60px;
+    height: 150px;
+    width: 50px;
 }
 .nav-logo p{
     color:#171717;

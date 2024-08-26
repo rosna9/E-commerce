@@ -2,7 +2,7 @@
     width:65%;
     height:40vh;
     display: flex;
-    flex-direction:colum;
+    flex-direction:column;
     justify-content:center;
     align-items: center;
     margin: auto;

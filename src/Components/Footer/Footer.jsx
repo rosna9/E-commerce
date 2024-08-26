@@ -3,6 +3,7 @@ import './Footer.css'
 import footer_logo from '../Assets/Assets/logo_big.png'
 
 
+
  const Footer = () => {
   return (
     <div className='footer'>
@@ -25,7 +26,10 @@ Contact
             </li>
         </ul>
         <div className="footer-social-icon">
-            <div className="footer-icons-container"></div>
+            <div className="footer-icons-container"><a href="#"><i class='bx bxl-facebook-square'></i></a></div>
+            <div className="footer-icons-container"> <a href="#"><i class='bx bxl-instagram' ></i></a></div>
+            <div className="footer-icons-container"> 
+                <a href="#"><i class='bx bxl-twitter' ></i></a></div>
         </div>
         <div className="footer-copyright">
             <hr/>
